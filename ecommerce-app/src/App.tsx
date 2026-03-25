@@ -113,11 +113,12 @@ function App() {
       </section>
 
       <div className="ticks"></div>
+      <h1>test</h1>
       <section id="spacer"></section>
     </>
   )
 }
 
-fetch('https://fakestoreapi.com/products').then(res => res.json()).then(data => console.log(data))
+
 
 export default App
