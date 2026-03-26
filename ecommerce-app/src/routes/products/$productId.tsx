@@ -1,6 +1,5 @@
 import { createFileRoute, useLoaderData } from '@tanstack/react-router'
 import { getSingleProduct } from '../../api'
-import '../../styles.css'
 
 export const Route = createFileRoute('/products/$productId')({
   loader: ({ params }) => getSingleProduct(+params.productId), // TODO: Check if it is not a string
