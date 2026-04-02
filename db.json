@@ -1,0 +1,291 @@
+{
+    "$schema": "./node_modules/json-server/schema.json",
+    "products": [
+        {
+            "id": "7b2d1f34-1a2b-4c3d-8e5f-9a0b1c2d3e4f",
+            "title": "Millennium Falcon (Ultimate Collector Series)",
+            "price": 849.99,
+            "ageRange": "18+",
+            "category": "Star Wars",
+            "rating": {
+                "rate": 4.5,
+                "count": 1250
+            }
+        },
+        {
+            "id": "a1b2c3d4-e5f6-4a5b-bc6d-7e8f9a0b1c2d",
+            "title": "Police Station",
+            "price": 199.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 5.0,
+                "count": 420
+            }
+        },
+        {
+            "id": "f47ac10b-58cc-4372-a567-0e02b2c3d4e5",
+            "title": "Ninjago City Gardens",
+            "price": 349.99,
+            "ageRange": "14+",
+            "category": "Ninjago",
+            "rating": {
+                "rate": 4.5,
+                "count": 890
+            }
+        },
+        {
+            "id": "123e4567-e89b-12d3-a456-426614174000",
+            "title": "The Mighty Bowser",
+            "price": 269.99,
+            "ageRange": "18+",
+            "category": "Super Mario",
+            "rating": {
+                "rate": 4.0,
+                "count": 150
+            }
+        },
+        {
+            "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+            "title": "Boutique Hotel",
+            "price": 229.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 4.5,
+                "count": 310
+            }
+        },
+        {
+            "id": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
+            "title": "Ferrari Daytona SP3",
+            "price": 449.99,
+            "ageRange": "18+",
+            "category": "Technic",
+            "rating": {
+                "rate": 3.5,
+                "count": 275
+            }
+        },
+        {
+            "id": "87299a9a-5f81-421b-871d-7201889a742c",
+            "title": "Lion Knights' Castle",
+            "price": 399.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 5.0,
+                "count": 640
+            }
+        },
+        {
+            "id": "0f14d0ab-9689-4d35-9519-dbcd34f03420",
+            "title": "Pyramids of Giza",
+            "price": 129.99,
+            "ageRange": "18+",
+            "category": "Architecture",
+            "rating": {
+                "rate": 4.5,
+                "count": 512
+            }
+        },
+        {
+            "id": "e445388c-9407-4229-9e8c-f09b52a420b7",
+            "title": "Galaxy Explorer",
+            "price": 99.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 5.0,
+                "count": 1200
+            }
+        },
+        {
+            "id": "c1a938c5-926c-4861-a1e4-63a24141d601",
+            "title": "Jazz Club",
+            "price": 229.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 4.0,
+                "count": 85
+            }
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440000",
+            "title": "Hogwarts Castle",
+            "price": 469.99,
+            "ageRange": "16+",
+            "category": "Harry Potter",
+            "rating": {
+                "rate": 4.5,
+                "count": 2100
+            }
+        },
+        {
+            "id": "2d3e4f56-a1b2-3c4d-5e6f-7a8b9c0d1e2f",
+            "title": "Wildflower Bouquet",
+            "price": 59.99,
+            "ageRange": "18+",
+            "category": "Botanical Collection",
+            "rating": {
+                "rate": 5.0,
+                "count": 340
+            }
+        },
+        {
+            "id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+            "title": "TIE Bomber",
+            "price": 64.99,
+            "ageRange": "9+",
+            "category": "Star Wars",
+            "rating": {
+                "rate": 4.0,
+                "count": 190
+            }
+        },
+        {
+            "id": "3f4e5d6c-7b8a-9012-3456-789abcdef012",
+            "title": "Deep Sea Explorers",
+            "price": 109.99,
+            "ageRange": "7+",
+            "category": "City",
+            "rating": {
+                "rate": 3.5,
+                "count": 45
+            }
+        },
+        {
+            "id": "6789abcd-ef01-2345-6789-abcdef012345",
+            "title": "The Office",
+            "price": 119.99,
+            "ageRange": "18+",
+            "category": "Ideas",
+            "rating": {
+                "rate": 5.0,
+                "count": 880
+            }
+        },
+        {
+            "id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+            "title": "Ghostbusters ECTO-1",
+            "price": 239.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 4.5,
+                "count": 1120
+            }
+        },
+        {
+            "id": "bcde5678-9012-3456-789a-bcdef0123456",
+            "title": "NASA Mars Rover Perseverance",
+            "price": 99.99,
+            "ageRange": "10+",
+            "category": "Technic",
+            "rating": {
+                "rate": 4.5,
+                "count": 320
+            }
+        },
+        {
+            "id": "def01234-5678-9012-3456-789abcdef012",
+            "title": "PAC-MAN Arcade",
+            "price": 269.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 5.0,
+                "count": 140
+            }
+        },
+        {
+            "id": "90123456-789a-bcde-f012-3456789abcde",
+            "title": "A-Frame Cabin",
+            "price": 179.99,
+            "ageRange": "18+",
+            "category": "Ideas",
+            "rating": {
+                "rate": 4.5,
+                "count": 210
+            }
+        },
+        {
+            "id": "3456789a-bcde-f012-3456-789abcdef012",
+            "title": "Tales of the Space Age",
+            "price": 49.99,
+            "ageRange": "18+",
+            "category": "Ideas",
+            "rating": {
+                "rate": 4.0,
+                "count": 95
+            }
+        },
+        {
+            "id": "f0123456-789a-bcde-f012-3456789abcde",
+            "title": "Up House",
+            "price": 59.99,
+            "ageRange": "9+",
+            "category": "Disney",
+            "rating": {
+                "rate": 4.5,
+                "count": 430
+            }
+        },
+        {
+            "id": "789abcde-f012-3456-789a-bcdef0123456",
+            "title": "Land Rover Classic Defender 90",
+            "price": 239.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 4.5,
+                "count": 180
+            }
+        },
+        {
+            "id": "bcdef012-3456-789a-bcde-f0123456789a",
+            "title": "The Lord of the Rings: Rivendell",
+            "price": 499.99,
+            "ageRange": "18+",
+            "category": "Icons",
+            "rating": {
+                "rate": 5.0,
+                "count": 760
+            }
+        },
+        {
+            "id": "23456789-abcd-ef01-2345-6789abcdef01",
+            "title": "Himeji Castle",
+            "price": 159.99,
+            "ageRange": "18+",
+            "category": "Architecture",
+            "rating": {
+                "rate": 4.5,
+                "count": 290
+            }
+        },
+        {
+            "id": "56789abc-def0-1234-5678-9abcdef01234",
+            "title": "Peugeot 9X8 Hybrid Hypercar",
+            "price": 199.99,
+            "ageRange": "18+",
+            "category": "Technic",
+            "rating": {
+                "rate": 4.0,
+                "count": 115
+            }
+        },
+        {
+            "id": "ef012345-6789-abcd-ef01-23456789abcd",
+            "title": "The Amazing Spider-Man",
+            "price": 199.99,
+            "ageRange": "18+",
+            "category": "Art",
+            "rating": {
+                "rate": 3.5,
+                "count": 60
+            }
+        }
+    ]
+}
