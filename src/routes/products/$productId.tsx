@@ -1,6 +1,6 @@
 import { createFileRoute, useLoaderData } from '@tanstack/react-router'
-import { getSingleProduct } from '../../api'
-import ProductPage from '../../components/ProductPage';
+import { getSingleProduct } from '@/api'
+import ProductPage from '@/components/ProductPage';
 
 export const Route = createFileRoute('/products/$productId')({
   loader: ({ params }) => getSingleProduct(params.productId),
