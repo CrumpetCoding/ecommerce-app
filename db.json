@@ -59,7 +59,7 @@
                 "rate": 4.5,
                 "count": 310
             },
-            "images": "/Hotel.png"
+            "image": "/Hotel.png"
         },
         {
             "id": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
@@ -71,7 +71,7 @@
                 "rate": 3.5,
                 "count": 275
             },
-            "images": "/Ferrari.png"
+            "image": "/Ferrari.png"
         },
         {
             "id": "87299a9a-5f81-421b-871d-7201889a742c",
@@ -83,7 +83,7 @@
                 "rate": 5.0,
                 "count": 640
             },
-            "images": "/Castle.png"
+            "image": "/Castle.png"
         },
         {
             "id": "0f14d0ab-9689-4d35-9519-dbcd34f03420",
@@ -95,7 +95,7 @@
                 "rate": 4.5,
                 "count": 512
             },
-            "images": "/Pyramid.png"
+            "image": "/Pyramid.png"
         },
         {
             "id": "e445388c-9407-4229-9e8c-f09b52a420b7",
@@ -118,7 +118,7 @@
                 "rate": 4.0,
                 "count": 85
             },
-            "images": "/Jazz.png"
+            "image": "/Jazz.png"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440000",
@@ -130,7 +130,7 @@
                 "rate": 4.5,
                 "count": 2100
             },
-            "images": "/Hogwarts.png"
+            "image": "/Hogwarts.png"
         },
         {
             "id": "2d3e4f56-a1b2-3c4d-5e6f-7a8b9c0d1e2f",
@@ -142,7 +142,7 @@
                 "rate": 5.0,
                 "count": 340
             },
-            "images": "/Flower.png"
+            "image": "/Flower.png"
         },
         {
             "id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
