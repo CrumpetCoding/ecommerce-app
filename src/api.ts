@@ -4,7 +4,7 @@ export type Product = {
     price: number,
     ageRange: string,
     category: string,
-    // image: string, // TODO: add image support
+    image: string,
     rating: {
         rate: number,
         count: number,

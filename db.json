@@ -11,7 +11,7 @@
                 "rate": 4.5,
                 "count": 1250
             },
-            "image": "https://www.lego.com/cdn/cs/set/assets/blt3349f56c6f192e18/75192_Prod.png?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5"
+            "image": "/MFalcoln.png"
         },
         {
             "id": "a1b2c3d4-e5f6-4a5b-bc6d-7e8f9a0b1c2d",
@@ -23,7 +23,7 @@
                 "rate": 5.0,
                 "count": 420
             },
-            "image": "https://www.lego.com/cdn/cs/set/assets/blt22867b1f8fba50b3/10278_Prod.png?format=webply&fit=bounds&quality=70&width=800&height=800&dpr=1.5"
+            "image": "/Police.png"
         },
         {
             "id": "f47ac10b-58cc-4372-a567-0e02b2c3d4e5",
@@ -34,7 +34,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 890
-            }
+            },
+            "image": "/Ninja.png"
         },
         {
             "id": "123e4567-e89b-12d3-a456-426614174000",
@@ -45,7 +46,8 @@
             "rating": {
                 "rate": 4.0,
                 "count": 150
-            }
+            },
+            "image": "/Bowser.png"
         },
         {
             "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
@@ -56,7 +58,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 310
-            }
+            },
+            "images": "/Hotel.png"
         },
         {
             "id": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
@@ -67,7 +70,8 @@
             "rating": {
                 "rate": 3.5,
                 "count": 275
-            }
+            },
+            "images": "/Ferrari.png"
         },
         {
             "id": "87299a9a-5f81-421b-871d-7201889a742c",
@@ -78,7 +82,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 640
-            }
+            },
+            "images": "/Castle.png"
         },
         {
             "id": "0f14d0ab-9689-4d35-9519-dbcd34f03420",
@@ -89,7 +94,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 512
-            }
+            },
+            "images": "/Pyramid.png"
         },
         {
             "id": "e445388c-9407-4229-9e8c-f09b52a420b7",
@@ -111,7 +117,8 @@
             "rating": {
                 "rate": 4.0,
                 "count": 85
-            }
+            },
+            "images": "/Jazz.png"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440000",
@@ -122,7 +129,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 2100
-            }
+            },
+            "images": "/Hogwarts.png"
         },
         {
             "id": "2d3e4f56-a1b2-3c4d-5e6f-7a8b9c0d1e2f",
@@ -133,7 +141,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 340
-            }
+            },
+            "images": "/Flower.png"
         },
         {
             "id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
