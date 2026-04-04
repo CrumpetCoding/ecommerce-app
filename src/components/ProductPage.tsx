@@ -7,6 +7,6 @@ export default function ProductPage({ product }: { product: Product }) {
         <p>{formatCurrencyNumber(product.price)}</p>
         <p>⭐: {product.rating.rate}, Count: {formatNumber(product.rating.count)}</p>
         <p>{product.category}</p>
-        {/* <img src={product.image} alt={`Image of a ${product.title}`} /> */}
+        <img src={product.image} alt={`Image of a ${product.title}`} />
     </div>)
 }
