@@ -153,7 +153,8 @@
             "rating": {
                 "rate": 4.0,
                 "count": 190
-            }
+            },
+            "image": "/Tie.png"
         },
         {
             "id": "3f4e5d6c-7b8a-9012-3456-789abcdef012",
@@ -164,7 +165,8 @@
             "rating": {
                 "rate": 3.5,
                 "count": 45
-            }
+            },
+            "image": "/Sea.png"
         },
         {
             "id": "6789abcd-ef01-2345-6789-abcdef012345",
@@ -175,7 +177,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 880
-            }
+            },
+            "image": "/Office.png"
         },
         {
             "id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
@@ -186,7 +189,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 1120
-            }
+            },
+            "image": "/Ghost.png"
         },
         {
             "id": "bcde5678-9012-3456-789a-bcdef0123456",
@@ -197,7 +201,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 320
-            }
+            },
+            "image": "/Rover.png"
         },
         {
             "id": "def01234-5678-9012-3456-789abcdef012",
@@ -208,7 +213,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 140
-            }
+            },
+            "image": "/PacMan.png"
         },
         {
             "id": "90123456-789a-bcde-f012-3456789abcde",
@@ -219,7 +225,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 210
-            }
+            },
+            "image": "/Cabin.png"
         },
         {
             "id": "3456789a-bcde-f012-3456-789abcdef012",
@@ -230,7 +237,8 @@
             "rating": {
                 "rate": 4.0,
                 "count": 95
-            }
+            },
+            "image": "/Space.png"
         },
         {
             "id": "f0123456-789a-bcde-f012-3456789abcde",
@@ -241,7 +249,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 430
-            }
+            },
+            "image": "/Up.png"
         },
         {
             "id": "789abcde-f012-3456-789a-bcdef0123456",
@@ -252,7 +261,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 180
-            }
+            },
+            "image": "/Defender.png"
         },
         {
             "id": "bcdef012-3456-789a-bcde-f0123456789a",
@@ -263,7 +273,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 760
-            }
+            },
+            "image": "/Rivendell.png"
         },
         {
             "id": "23456789-abcd-ef01-2345-6789abcdef01",
@@ -274,7 +285,8 @@
             "rating": {
                 "rate": 4.5,
                 "count": 290
-            }
+            },
+            "image": "/Himeji.png"
         },
         {
             "id": "56789abc-def0-1234-5678-9abcdef01234",
@@ -285,7 +297,8 @@
             "rating": {
                 "rate": 4.0,
                 "count": 115
-            }
+            },
+            "image": "/Peugeot.png"
         },
         {
             "id": "ef012345-6789-abcd-ef01-23456789abcd",
@@ -296,7 +309,8 @@
             "rating": {
                 "rate": 3.5,
                 "count": 60
-            }
+            },
+            "image": "/SpiderMan.png"
         }
     ]
 }
