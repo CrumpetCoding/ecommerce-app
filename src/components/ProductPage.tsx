@@ -1,10 +1,9 @@
 import type { Product } from "@/api";
 import { formatCurrencyNumber, formatNumber } from "@/utilities/numberFormat";
-import Navbar from '@/components/Navbar';
+
 
 export default function ProductPage({ product }: { product: Product }) {
     return (<div>
-        <Navbar />
         <h1>{product.title}</h1>
         <p>{formatCurrencyNumber(product.price)}</p>
         <p>⭐: {product.rating.rate}, Count: {formatNumber(product.rating.count)}</p>
