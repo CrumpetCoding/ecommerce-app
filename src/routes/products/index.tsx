@@ -1,5 +1,6 @@
 import { getAllProducts } from '@/api'
 import Pagination from '@/components/Pagination'
+import ProductCard from '@/components/ProductCard'
 import { createFileRoute, useNavigate, type SearchSchemaInput } from '@tanstack/react-router'
 
 type SearchParams = {
@@ -40,12 +41,12 @@ function RouteComponent() {
   return (
     <div>
       <h1>Product list</h1>
-      Render products in a list
       <ul>
         {products.map((product) => (
-          <li key={product.id}>
-            {product.title} - ${product.price} ({product.category})
-          </li>
+          <ProductCard
+            key={product.id}
+            product={product}
+          />
         ))}
       </ul>
       <Pagination currentPage={page} setCurrentPage={changePage} totalPages={paginationData.pages} />
