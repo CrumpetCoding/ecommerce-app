@@ -41,14 +41,14 @@ function RouteComponent() {
   return (
     <div>
       <h1>Product list</h1>
-      <ul>
+      <div className="product-list">
         {products.map((product) => (
           <ProductCard
             key={product.id}
             product={product}
           />
         ))}
-      </ul>
+      </div>
       <Pagination currentPage={page} setCurrentPage={changePage} totalPages={paginationData.pages} />
     </div>
   )

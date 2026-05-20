@@ -1,0 +1,37 @@
+.product-card {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 1rem;
+}
+
+.product-image-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+}
+
+.product-image-container img {
+    object-fit: contain;
+    object-position: center;
+    height: auto;
+    width: 100%;
+}
+
+.product-image:hover {
+    cursor: pointer;
+}
+
+.product-title {
+    font-size: large;
+}
+
+.product-title:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.product-price {
+    font-weight: bolder;
+}

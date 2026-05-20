@@ -106,7 +106,8 @@
             "rating": {
                 "rate": 5.0,
                 "count": 1200
-            }
+            },
+            "image": "/Galaxy.png"
         },
         {
             "id": "c1a938c5-926c-4861-a1e4-63a24141d601",
