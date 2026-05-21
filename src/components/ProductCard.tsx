@@ -8,7 +8,7 @@ export default function ProductCard({ product }: { product: Product }) {
             <div className='product-image-container'>
                 <img className='product-image' src={product.image} alt={`Image of a ${product.title}`} />
             </div>
-            <a href={`/products/${product.id}`}>
+            <a className='product-link' href={`/products/${product.id}`}>
                 <p className='product-title'>{product.title}</p>
             </a>
             <div className='product-info'>

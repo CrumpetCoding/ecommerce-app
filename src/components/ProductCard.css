@@ -1,3 +1,15 @@
+@keyframes imageHover {
+    from {
+        opacity: 100%;
+        transform: scale(1);
+    }
+
+    to {
+        opacity: 60%;
+        transform: scale(1.25);
+    }
+}
+
 .product-card {
     border: 1px solid black;
     border-radius: 4px;
@@ -21,14 +33,21 @@
 
 .product-image:hover {
     cursor: pointer;
+    animation-name: imageHover;
+    animation-duration: 0.9s;
+    animation-fill-mode: forwards;
 }
 
 .product-title {
     font-size: large;
+    color: black;
 }
 
-.product-title:hover {
-    cursor: pointer;
+.product-link {
+    text-decoration: none;
+}
+
+.product-link:hover {
     text-decoration: underline;
 }
 

@@ -8,6 +8,6 @@ body {
   display: grid;
   padding: 10px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px;
+  gap: 8px;
   /* TODO: Implement mobile responsiveness with media queries. */
 }
