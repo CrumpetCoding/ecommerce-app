@@ -1,0 +1,17 @@
+.product-container {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.image-section {
+    width: auto;
+    flex: 1;
+}
+
+.product-details {
+    flex: 0 0 400px;
+}
+
+.product-image {
+    max-width: 100%;
+}

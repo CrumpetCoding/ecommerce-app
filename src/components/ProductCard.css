@@ -1,15 +1,3 @@
-@keyframes imageHover {
-    from {
-        opacity: 100%;
-        transform: scale(1);
-    }
-
-    to {
-        opacity: 60%;
-        transform: scale(1.25);
-    }
-}
-
 .product-card {
     border: 1px solid black;
     border-radius: 4px;
@@ -31,11 +19,16 @@
     width: 100%;
 }
 
+.product-image {
+    transform: scale(1);
+    transition: transform ease-out 750ms;
+}
+
 .product-image:hover {
     cursor: pointer;
-    animation-name: imageHover;
-    animation-duration: 0.9s;
-    animation-fill-mode: forwards;
+    transform: scale(1.25);
+    transition-duration: 750ms;
+    transition-delay: 500ms;
 }
 
 .product-title {
