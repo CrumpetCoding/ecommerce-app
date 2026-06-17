@@ -15,6 +15,8 @@ export default function ProductPage({ product }: { product: Product }) {
         </div>
         <div className="product-details">
             <h1>{product.title}</h1>
+            <IMdiStar />
+            <IMdiStarHalf />
         </div>
     </div>)
 }
