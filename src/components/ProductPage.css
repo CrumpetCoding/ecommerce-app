@@ -15,3 +15,12 @@
 .product-image {
     max-width: 100%;
 }
+
+.ratings-row {
+    display: flex;
+    align-items: center;
+}
+
+.rating-count {
+    color: rgb(42, 114, 221)
+}
